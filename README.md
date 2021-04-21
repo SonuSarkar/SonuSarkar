@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SonuSarkar
+- 👋 Hi, I’m Sonu kumar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C & C++
 - 💞️ I have started mine own company WebAble
